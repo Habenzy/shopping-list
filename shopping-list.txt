@@ -4,3 +4,7 @@ parmesan
 brie
 mozarella
 
+saltines
+bagel chips
+crackers
+hummus
