@@ -1,7 +1,6 @@
 tea
-pastries
-bread
-hot chocolate
-chocolate ice cream
-vanilla cake ice cream
-bananas
+cheddar
+parmesan
+brie
+mozarella
+
